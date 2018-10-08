@@ -6,3 +6,5 @@
 | 9/26  | git hub | 3 hours | couldn't load lab 3 to github|
 | 10/1   | github | 2 hours | figured out.pushed.|
 | 10/2  | lab 4 activity | 6 hours | got through videos. Followed along in week1 example. Downloaded week 4 exercise. |
+| 10/3   | lab 4 videos | 2 hours | 
+| 10/4   | lab 4 reading and doing | 2 hours
