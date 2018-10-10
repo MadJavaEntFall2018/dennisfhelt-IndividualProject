@@ -8,3 +8,5 @@
 | 10/2  | lab 4 activity | 6 hours | got through videos. Followed along in week1 example. Downloaded week 4 exercise. |
 | 10/3   | lab 4 videos | 2 hours | 
 | 10/4   | lab 4 reading and doing | 2 hours
+| 10/8   | lab 4 completed | 2 hours |
+| 10/9   | lab 5 videos and practice | 6 hours |
