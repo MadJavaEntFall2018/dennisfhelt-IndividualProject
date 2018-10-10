@@ -10,3 +10,4 @@
 | 10/4   | lab 4 reading and doing | 2 hours
 | 10/8   | lab 4 completed | 2 hours |
 | 10/9   | lab 5 videos and practice | 6 hours |
+| 10/10  | indi project | 3 hours | tried to make html pages to sketch my layout.
