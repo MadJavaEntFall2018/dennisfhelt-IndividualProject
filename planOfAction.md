@@ -6,12 +6,12 @@
     <li>Create db on AWS</li>
     <li>Deploy to AWS for first time</li>
     <li>Weekly journal entry</li>
-    <li>Create trail table</li>
-    <li>Add the trail entity (test, dev and prod dbs)</li>
+    <li>Create table for my stocks</li>
+    <li>Add the stock entity (test, dev and prod dbs)</li>
     <li>Realize that these daos are repetitive. Refactor into a generic dao!</li>
     <li>Add update and delete functionality in jsp for user and role</li>
-    <li>Build the trail search jsp</li>
-    <li>Build the trail add/update/delete jsp</li>
+    <li>Build the stock search jsp</li>
+    <li>Build the stock add/update/delete jsp</li>
     <li>Prepare for Checkpoint 2: Database designed and created, at least one DAO implemented with Hibernate, DAO is unit tested, Log4J is implemented (no System.out.printlns), class design and any other diagrams you plan to use have been created.</li>
 </ul>
 <h2>Week 7</h2>
@@ -19,17 +19,16 @@
     <li>Weekly journal entry</li>
     <li>Set up authentication locally</li>
     <li>Set up authentication on AWS</li>
-    <li>Add the Trail Type and Grooming Tables, populate with data, (test, dev and prod dbs)</li>
-    <li>Create the Trail Type and Grooming entities</li>
-    <li>Update Trail and Trail report to use trail type and grooming</li>
-    <li>Update Trail and Trail report tests to be sure they work with the new relationships</li>
+    <li>Add the Stock Type Tables, populate with data, (test, dev and prod dbs)</li>
+    <li>Create the Stock Type entities</li>
+    <li>Update Stock report to use stock type</li>
+    <li>Update Stock report tests to be sure they work with the new relationships</li>
     <li>Review and incorporate any feedback from Checkpoint 2.</li>
 </ul>
 <h2>Week 8</h2>
 <ul>
     <li>Weekly journal entry</li>
-    <li>Integration with google maps api</li>
-    <li>Create trail report table (test, dev and prod dbs)</li>
+    <li>Integration with tdameritrade api</li>
     <li>Add the trail report entity</li>
     <li>Create the trail report dao</li>
     <li>Create the trail report dao unit tests</li>
